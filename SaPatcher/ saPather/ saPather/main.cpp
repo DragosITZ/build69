@@ -21,7 +21,7 @@ static_assert(sizeof(cryptor::string_encryptor) == 37);
 
 /* 
 	-l C://libsamp.so
-	-i 127.127.127.127
+	-i 188.214.88.188
 	-p 7777
 */
 
